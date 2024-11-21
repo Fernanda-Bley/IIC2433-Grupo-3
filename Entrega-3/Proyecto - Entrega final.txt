@@ -1,0 +1,61 @@
+﻿Pontificia Universidad Católica de Chile
+
+Escuela de Ingenieŕıa
+
+Departamento de Ciencia de la Computación
+
+Segundo Semestre de 2024
+
+IIC 2433 – Mineŕıa de datos
+Entrega Final del Proyecto del Curso
+
+Las metas de esta entrega son:
+
+Usar las herramientas que aprendieron en el curso para responder una pregunta de datos en un contexto
+realista.
+
+Reflexionar en base a lo realizado en la entrega anterior.
+
+Presentar su trabajo de forma concisa en un video de no más de 5 minutos.
+
+1. Detalles académicos
+
+Esta entrega tiene dos componentes.
+
+Un link a un video, que deberá ser subido como una pull request a la página de github del curso.
+
+El código que respalde todo lo realizado y mostrado en el video, a ser subido por canvas.
+
+La fecha de esta entrega es el 9 de Diciembre, a las 20:00 horas. El video será presentado el d́ıa 13
+de Diciembre, entre 8:30 y 12:50. Vamos a dividir los grupos en varias sesiones, esta información será
+avisada en la semana del 9 de Diciembre.
+
+2. Trabajo a realizar
+
+Los grupos deben trabajar en base a las siguientes aristas.
+
+2.1. Definición del problema
+
+Notar que el problema podŕıa cambiar con respecto a la entrega 2.
+
+2.2. Impacto del trabajo
+
+Nuevamente: ¿por qué este análisis es importante? ¿A quién le sirve?
+
+2.3. Datos / análisis
+
+Qué datos y que cosas intentaron hacer en la entrega 2, qué problemas tuvieron con esos análisis preli-
+minares, y como los están solucionando en esta entrega.
+
+2.4. Conclusión
+
+Acá deben describir cómo queda o como cambió el mundo después de su trabajo.
+
+2.5. Presentación
+
+El video será interrumpido a los 5 minutos, por lo que es importante ser concisos.
+Concentrarse en lo que es importante, los detalles técnicos más finos pueden quedar en el código para
+
+que los revisemos separadamente.
+
+1
