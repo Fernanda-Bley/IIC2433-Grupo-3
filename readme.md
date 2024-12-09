@@ -1,3 +1,4 @@
+# Bibliografía
 1. Mordor Intelligence Research & Advisory. (2024, January). Industria del juego - Análisis de tamaño y participación - Tendencias y pronósticos de crecimiento (2024 - 2029). Mordor Intelligence. Recuperado el 28 de Noviembre, 2024, de: https://www.mordorintelligence.com/es/industry-reports/global-gaming-market  
 2. Clement, J. (2024, November 6). Topic: Video game industry. Statista. https://www.statista.com/topics/868/video-games/# 
 3. Witkowski, W. (2020, December 22). Videogames are a bigger industry than sports and movies combined, thanks to the pandemic. MarketWatch. https://www.marketwatch.com/story/videogames-are-a-bigger-industry-than-sports-and-movies-combined-thanks-to-the-pandemic-11608654990 
